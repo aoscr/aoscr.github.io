@@ -1,3 +1,9 @@
+body {
+  background-image: url('bg.jpg');
+  background-repeat: repeat; 
+  background-size: auto;
+}
+
 p {
   border: 2px solid powderblue;
   padding: 30px;
