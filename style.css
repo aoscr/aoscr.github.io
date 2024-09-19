@@ -1,11 +1,6 @@
 body {
-  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('./bg.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./bg.jpg');
   background-repeat: repeat; 
   background-size: auto;
   color: white;  
-}
-
-#header {
-  border: 2px solid powderblue;
-  padding: 30px;
 }
